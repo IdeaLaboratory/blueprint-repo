@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blueprint-repo", "src/blueprint-repo.csproj", "{33855A07-6549-CF8B-4593-2EFB877F58E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blueprint-repo", "blueprint-repo.csproj", "{33855A07-6549-CF8B-4593-2EFB877F58E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
