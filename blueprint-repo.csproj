@@ -1,11 +1,2 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>net10.0</TargetFramework>
-    <RootNamespace>blueprint_repo</RootNamespace>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
-
-</Project>
+﻿<!-- Project moved to src/blueprint-repo.csproj -->
+<!-- Use the solution file to open the project at src/ -->
